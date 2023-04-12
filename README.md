@@ -16,6 +16,7 @@ Update the table (today you need to fill at least first two columns)
 | Kowalewska Agnieszka | [ADzwo](https://github.com/ADzwo) | --- | Krawczyk Joanna, Cupriak Aleksandra |
 | Cupriak Aleksandra | [aleksandra-cupriak](https://github.com/ola-cupriak) | --- | Krawczyk Joanna, Kowalewska Agnieszka |
 | Trawińska Weronika | [weronika-trawinska](https://github.com/wtrawinska) | TBA | Izabela Fedorczyk, Roksana Malinowska |
+| Guzek Jakub | [jakubguzek](https://github.com/jakubguzek) | TBA | Jakub Guzek, Mateusz Sikorski |
 
 
  
