@@ -17,7 +17,7 @@ Update the table (today you need to fill at least first two columns)
 | Cupriak Aleksandra | [aleksandra-cupriak](https://github.com/ola-cupriak) | --- | Krawczyk Joanna, Kowalewska Agnieszka |
 | Trawińska Weronika | [weronika-trawinska](https://github.com/wtrawinska) | TBA | Izabela Fedorczyk, Roksana Malinowska |
 | Guzek Jakub | [jakubguzek](https://github.com/jakubguzek) | TBA | Jakub Guzek, Mateusz Sikorski |
-| Byrska Julia | [julia-byrska](https://github.com/bryzka) | TBA | Anastasia Ramanchanka, Julia Baczewska, Malwina Karaśkiewicz |
+| Byrska Julia | [julia-byrska](https://github.com/bryzka) | TBA | Anastasia Ramanchanka, Stanisław Janik |
 | Stanisław Janik | [stasiek-j](https://github.com/stasiek-j)| TBA | Julia Byrska, Anastasia Ramanchanka|
 
  
