@@ -20,8 +20,8 @@ Update the table (today you need to fill at least first two columns)
 | Malinowska Roksana | [roksana-malinowska](https://github.com/rmalinowska) | [IPF](https://github.com/rmalinowska/InterProFetcher) | Izabela Fedorczyk, Weronika Trawińska |
 | Guzek Jakub | [jakubguzek](https://github.com/jakubguzek) | [BIN](https://github.com/jakubguzek/bioinf-news) | Jakub Guzek, Mateusz Sikorski |
 | Mateusz Sikorski | [msik-404](https://github.com/msik-404) | [BIN](https://github.com/jakubguzek/bioinf-news) | Jakub Guzek, Mateusz Sikorski |
-| Byrska Julia | [julia-byrska](https://github.com/bryzka) | [TICK](https://github.com/bryzka/TICK) | Anastasia Ramanchanka, Stanisław Janik |
-| Stanisław Janik | [stasiek-j](https://github.com/stasiek-j)| TBA | Julia Byrska, Anastasia Ramanchanka|
+| Byrska Julia | [julia-byrska](https://github.com/bryzka) | [TICK](https://github.com/bryzka/TICK) |  Stanisław Janik |
+| Stanisław Janik | [stasiek-j](https://github.com/stasiek-j)| [TICK](https://github.com/bryzka/TICK)  | Julia Byrska|
 
  
 ### Task 2
